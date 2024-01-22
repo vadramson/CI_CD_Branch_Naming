@@ -1,4 +1,4 @@
--- Declare warehouse, database, and schema 
+-- Set/Declare warehouse, database, and schema 
 USE WAREHOUSE VADSON;
 USE DATA BASE VAD;
 USE SCHEMA BOB;
