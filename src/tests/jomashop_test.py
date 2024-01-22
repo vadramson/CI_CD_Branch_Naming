@@ -4,7 +4,7 @@ from datetime import datetime
 
 class TestJomashopQuery(unittest.TestCase):
 
-    def setUp(self):
+    def setUp(self): # Dates can also be dd-mm-yyyy hh:mm:ss
         # Mocking up sample data for testing
         # Replace the data with your actual test data
         data = {
